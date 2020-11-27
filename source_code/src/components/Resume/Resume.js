@@ -31,7 +31,7 @@ class Resume extends React.Component {
           <Seperator />
           <ShortDescription title={this.props.data.career.title} description={this.props.data.career.description} icon="career" />
           <Seperator />
-          <RatedDescription
+          <NonRatedDescription
             title={this.props.data.skills.title}
             description={this.props.data.skills.description}
             icon="summary"

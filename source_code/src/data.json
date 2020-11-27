@@ -75,21 +75,28 @@
   "skills": {
     "title": "Technical Skills",
     "description": [
-      { "name": "PHP", "rating": 5 },
-      { "name": "JavaScript", "rating": 4 },
-      { "name": "Shell", "rating": 4 },
-      { "name": "CSS", "rating": 3 },
-      { "name": "Golang", "rating": 3 }
+      "PHP",
+      "Laravel",
+      "JavaScript",
+      "CSS/Sass",
+      "SQL",
+      "Shell",
+      "Golang"
     ]
   },
   "expertise": {
     "title": "Areas of Expertise",
-    "description": ["Algorithms", "Data Structures", "DevOps", "SQL", "jQuery", "Vue.js", "Data Visualize and Reports"]
+    "description": [
+      "Algorithms",
+      "Data Structures",
+      "DevOps",
+      "Data Visualize and Reports"
+    ]
   },
   "methodology": {
     "title": "Methodology / Approach",
     "description": [
-      "Component based architecture",
+      "CleanCode",
       "Agile methodology",
       "Design Patterns",
       "Test Driven Development",
@@ -99,7 +106,17 @@
   },
   "tools": {
     "title": "Tools",
-    "description": ["Git", "Gitlab", "Vim", "VS Code", "Docker", "Ansible", "RobotFramework", "Codeception", "Cypress.io"]
+    "description": [
+      "Git",
+      "Gitlab",
+      "Vim",
+      "VS Code",
+      "Docker",
+      "Ansible",
+      "RobotFramework",
+      "Codeception",
+      "Cypress.io"
+    ]
   },
   "education": {
     "title": "Education",
